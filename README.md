@@ -1,2 +1,6 @@
-# analisis-
-![alt text](image.png)
+# analisis-de-algoritmo
+integrantes 
+## Duvan Leal
+##
+##
+##
